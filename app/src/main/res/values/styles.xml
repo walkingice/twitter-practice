@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="fieldAvatar">
+        <item name="android:layout_width">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:layout_height">@dimen/tw__tweet_avatar_size</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_avatar_margin_right</item>
+        <item name="android:layout_marginLeft">@dimen/tw__tweet_avatar_margin_left</item>
+    </style>
+
+    <style name="fieldName">
+        <item name="android:layout_marginRight">@dimen/gutter</item>
+        <item name="android:textSize">@dimen/tw__text_size_large</item>
+        <item name="android:textColor">@color/tw__tweet_light_primary_text_color</item>
+        <item name="android:focusable">false</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="fieldScreenName" parent="tw__AttributionText">
+        <item name="android:ellipsize">end</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+
+    <style name="fieldTime" parent="tw__AttributionText">
+        <item name="android:paddingLeft">@dimen/tw__tweet_timestamp_padding_left</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+
+    <style name="fieldContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/tw__tweet_text_margin_right</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/tw__text_size_large</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:textColor">@color/tw__tweet_light_primary_text_color</item>
+        <item name="android:textColorLink">@color/tw__tweet_action_color</item>
+        <item name="android:focusable">false</item>
+        <item name="android:importantForAccessibility">no</item>
+    </style>
+
+    <!-- from twitter-kit-android -->
+
+    <style name="tw__AttributionText"
+           tools:ignore="NewApi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/tw__text_size_medium</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

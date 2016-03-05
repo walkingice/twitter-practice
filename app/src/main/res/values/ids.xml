@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="row_avatar"/>
+    <item type="id" name="row_name"/>
+    <item type="id" name="row_symbol"/>
+    <item type="id" name="row_screen_name"/>
+    <item type="id" name="row_time"/>
+    <item type="id" name="row_content"/>
+    <item type="id" name="row_img1"/>
+    <item type="id" name="row_img2"/>
+</resources>

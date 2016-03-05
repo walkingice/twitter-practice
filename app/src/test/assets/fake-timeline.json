@@ -1,0 +1,3515 @@
+[
+  {
+    "created_at": "Tue Mar 08 07:00:16 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707098595116187648",
+    "user": {
+      "created_at": "Tue Jan 08 17:34:10 +0000 2008",
+      "description": "FixedGear Lover at Taipei, Taiwan",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "unayung",
+      "profile_text_color": "666666",
+      "profile_sidebar_fill_color": "252429",
+      "profile_sidebar_border_color": "181A1E",
+      "id_str": "11992502",
+      "profile_link_color": "2FC2EF",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/316389022/marioback_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "unayung",
+      "profile_background_color": "A69F9F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/316389022/marioback_normal.jpg",
+      "id": 11992502,
+      "listed_count": 1,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": true,
+      "friends_count": 133,
+      "profile_use_background_image": false,
+      "protected": false,
+      "followers_count": 57,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 241,
+      "favourites_count": 46,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "RT @irrenhaeusler: Selina 離婚，最遺憾的應該是中華民國國防部。\n「如果她現在才宣布就好了...台灣人最容易分心，記性也差...」",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "created_at": "Tue Mar 08 05:45:04 +0000 2016",
+      "favorite_count": 16,
+      "id_str": "707079666478096384",
+      "user": {
+        "created_at": "Tue Nov 27 08:29:03 +0000 2007",
+        "url": "http://t.co/LpaXPx1Qvz",
+        "description": "»Gehorsam folgt blind, Freiheit hat offene Augen.« \n                  \n-- Dietrich Bonhoeffer",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kolumbusplatz1.blogspot.com",
+                "expanded_url": "http://kolumbusplatz1.blogspot.com/",
+                "url": "http://t.co/LpaXPx1Qvz",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          }
+        },
+        "time_zone": "Taipei",
+        "screen_name": "irrenhaeusler",
+        "profile_text_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "id_str": "10650922",
+        "profile_link_color": "D02B55",
+        "lang": "de",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683296602098814976/g83UiH6S_normal.png",
+        "location": "Deutschland & Taiwan",
+        "name": "irrenhaeusler",
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/653387339956228096/OszoC4pX.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/653387339956228096/OszoC4pX.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683296602098814976/g83UiH6S_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10650922/1444709654",
+        "id": 10650922,
+        "listed_count": 238,
+        "is_translator": false,
+        "profile_background_tile": false,
+        "geo_enabled": true,
+        "friends_count": 961,
+        "profile_use_background_image": true,
+        "protected": false,
+        "followers_count": 12054,
+        "show_all_inline_media": false,
+        "follow_request_sent": false,
+        "statuses_count": 7666,
+        "favourites_count": 0,
+        "default_profile_image": false,
+        "utc_offset": 28800,
+        "verified": false,
+        "default_profile": false,
+        "contributors_enabled": false
+      },
+      "text": "Selina 離婚，最遺憾的應該是中華民國國防部。\n「如果她現在才宣布就好了...台灣人最容易分心，記性也差...」",
+      "lang": "zh",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "id": 707079666478096400,
+      "in_reply_to_status_id": 0,
+      "in_reply_to_user_id": 0,
+      "possibly_sensitive": false,
+      "truncated": false,
+      "retweet_count": 18,
+      "withheld_copyright": false,
+      "retweeted": false,
+      "favorited": false
+    },
+    "id": 707098595116187600,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 18,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:58:47 +0000 2016",
+    "favorite_count": 1,
+    "id_str": "707098220791517184",
+    "user": {
+      "created_at": "Wed May 21 13:27:55 +0000 2014",
+      "url": "http://t.co/RU2Fk0c0H2",
+      "description": "致力於解決開發者之間的資訊不對稱 by @vinta and @saiday",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "codetengu.com",
+              "expanded_url": "http://codetengu.com",
+              "url": "http://t.co/RU2Fk0c0H2",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "codetengu",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "2512601228",
+      "profile_link_color": "0084B4",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/622981159551528960/mdivtxzQ_normal.png",
+      "location": "Taiwan",
+      "name": "CodeTengu",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/622981159551528960/mdivtxzQ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2512601228/1436165401",
+      "id": 2512601228,
+      "listed_count": 35,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 99,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 994,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 650,
+      "favourites_count": 216,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "在Android中使用反射到底有多慢？ https://t.co/vBH3W5eqIS",
+    "lang": "zh",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "id": 707098220791517200,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:52:19 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707096590620737536",
+    "user": {
+      "created_at": "Fri May 13 18:09:42 +0000 2011",
+      "url": "http://t.co/lWCHIUhzR0",
+      "description": "這個是一個有關歐洲最新政經消息（有時亦有拉美消息）的推特，各位亦可到我的FB專頁 http://t.co/tYZ2bCBe9U",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/europechinese",
+              "expanded_url": "http://www.facebook.com/europechinese",
+              "url": "http://t.co/tYZ2bCBe9U",
+              "indices": [
+                41,
+                63
+              ]
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "europechinese.blogspot.com",
+              "expanded_url": "http://europechinese.blogspot.com/",
+              "url": "http://t.co/lWCHIUhzR0",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Hong Kong",
+      "screen_name": "europechinese",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "298107738",
+      "profile_link_color": "0084B4",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354104622/eu_flag_normal.jpg",
+      "location": "",
+      "name": "歐洲動態2.0",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1354104622/eu_flag_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/298107738/1451854269",
+      "id": 298107738,
+      "listed_count": 90,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 16,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 2157,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 4310,
+      "favourites_count": 12,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "歐盟與土耳其達成原則協議，土耳其會收回全部不符難民資格的偷渡者，歐盟同意增加援助，並加快土國入盟及免簽證入歐的談判，但細節要留待月中下次峰會拍板\n--單是峰會要突然加時，又要不斷開峰會都未有結果，就可見土耳其很適合加入歐盟... https://t.co/tsI49jag0E",
+    "lang": "zh",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "id": 707096590620737500,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:50:57 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707096248390529025",
+    "user": {
+      "created_at": "Tue Dec 10 09:07:36 +0000 2013",
+      "url": "http://t.co/lewLbDNWiF",
+      "description": "Android Developer",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nevinchen.com",
+              "expanded_url": "http://nevinchen.com",
+              "url": "http://t.co/lewLbDNWiF",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "screen_name": "ChenNevin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "2238861284",
+      "profile_link_color": "0084B4",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/582245954587246592/UHzz_Pso_normal.png",
+      "location": "台北市, 台灣",
+      "name": "IngShuoh",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/582245954587246592/UHzz_Pso_normal.png",
+      "id": 2238861284,
+      "listed_count": 7,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 108,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 49,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 215,
+      "favourites_count": 430,
+      "default_profile_image": false,
+      "utc_offset": 0,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "RT @Fabien_Devos: Implementing a Dependency Injection lib in ~10min will give you a pretty good idea of what happens under the hood! https:…",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "created_at": "Tue Mar 08 02:53:01 +0000 2016",
+      "favorite_count": 2,
+      "id_str": "707036370389192704",
+      "user": {
+        "created_at": "Thu Mar 18 11:24:41 +0000 2010",
+        "url": "https://t.co/tXdV1LTDUE",
+        "description": "Co-creator of @hacked_app, Lead Android @wealthfront. Ex @facebook and @upthere. Interested in Lean Startups, UX, AI, Big Data.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wlth.fr/1W2JE6L",
+                "expanded_url": "http://wlth.fr/1W2JE6L",
+                "url": "https://t.co/tXdV1LTDUE",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "time_zone": "Greenland",
+        "screen_name": "Fabien_Devos",
+        "profile_text_color": "333333",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_sidebar_border_color": "C0DEED",
+        "id_str": "124139372",
+        "profile_link_color": "0084B4",
+        "lang": "en",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596777530989760512/jA5xB09F_normal.png",
+        "location": "San Francisco",
+        "name": "Fabien Devos",
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596777530989760512/jA5xB09F_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124139372/1431117684",
+        "id": 124139372,
+        "listed_count": 40,
+        "is_translator": false,
+        "profile_background_tile": false,
+        "geo_enabled": false,
+        "friends_count": 149,
+        "profile_use_background_image": true,
+        "protected": false,
+        "followers_count": 675,
+        "show_all_inline_media": false,
+        "follow_request_sent": false,
+        "statuses_count": 1623,
+        "favourites_count": 553,
+        "default_profile_image": false,
+        "utc_offset": -10800,
+        "verified": false,
+        "default_profile": true,
+        "contributors_enabled": false
+      },
+      "text": "Implementing a Dependency Injection lib in ~10min will give you a pretty good idea of what happens under the hood! https://t.co/F39XBO4uSD",
+      "lang": "en",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "id": 707036370389192700,
+      "in_reply_to_status_id": 0,
+      "in_reply_to_user_id": 0,
+      "possibly_sensitive": false,
+      "truncated": false,
+      "retweet_count": 3,
+      "withheld_copyright": false,
+      "retweeted": false,
+      "favorited": false
+    },
+    "id": 707096248390529000,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 3,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:50:21 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707096095663460352",
+    "user": {
+      "created_at": "Thu Sep 20 16:34:33 +0000 2007",
+      "url": "http://t.co/1bLySICuRr",
+      "description": "http://t.co/1bLySID2GZ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "about.me/chihchun",
+              "expanded_url": "http://about.me/chihchun",
+              "url": "http://t.co/1bLySID2GZ",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "about.me/chihchun",
+              "expanded_url": "http://about.me/chihchun",
+              "url": "http://t.co/1bLySICuRr",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "chihchun",
+      "profile_text_color": "666666",
+      "profile_sidebar_fill_color": "252429",
+      "profile_sidebar_border_color": "181A1E",
+      "id_str": "8999482",
+      "profile_link_color": "2FC2EF",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/150530038/200904_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "Rex Tsai",
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/150530038/200904_normal.jpg",
+      "id": 8999482,
+      "listed_count": 51,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 510,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1227,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 8674,
+      "favourites_count": 168,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "顺便征求个妹子帮忙录音，可以用来作为 uNav 导航语音唷。 //@蔡志展:有兴趣帮忙汉化翻译基于 Free Software 开发的手机导航，请使用此连结 https://t.co/ZrHBl3cqhM  我已经翻译大半，需要有人覆阅一次 // @流水浮云tux @4月13…",
+    "lang": "zh",
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id": 707096095663460400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:50:11 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "706929113638916097",
+          "media_url": "http://pbs.twimg.com/media/Cc-ESIvUUAEJsqL.png",
+          "media_url_https": "https://pbs.twimg.com/media/Cc-ESIvUUAEJsqL.png",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 577,
+              "w": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 338,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 191,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "707053995995435009",
+          "source_status_id": 707053995995435000,
+          "id": 706929113638916100,
+          "display_url": "pic.twitter.com/soiVzyryJX",
+          "expanded_url": "http://twitter.com/DroidconSF/status/707053995995435009/photo/1",
+          "url": "https://t.co/soiVzyryJX",
+          "indices": [
+            122,
+            140
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707096056631197697",
+    "user": {
+      "created_at": "Tue Dec 10 09:07:36 +0000 2013",
+      "url": "http://t.co/lewLbDNWiF",
+      "description": "Android Developer",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nevinchen.com",
+              "expanded_url": "http://nevinchen.com",
+              "url": "http://t.co/lewLbDNWiF",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "screen_name": "ChenNevin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "2238861284",
+      "profile_link_color": "0084B4",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/582245954587246592/UHzz_Pso_normal.png",
+      "location": "台北市, 台灣",
+      "name": "IngShuoh",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/582245954587246592/UHzz_Pso_normal.png",
+      "id": 2238861284,
+      "listed_count": 7,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 108,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 49,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 215,
+      "favourites_count": 430,
+      "default_profile_image": false,
+      "utc_offset": 0,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "RT @DroidconSF: Want to explore custom activity transactions pre and post Lollipop? Come and join @joenrv at #DroidconSF! https://t.co/soiV…",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "retweeted_status": {
+      "created_at": "Tue Mar 08 04:03:03 +0000 2016",
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "706929113638916097",
+            "media_url": "http://pbs.twimg.com/media/Cc-ESIvUUAEJsqL.png",
+            "media_url_https": "https://pbs.twimg.com/media/Cc-ESIvUUAEJsqL.png",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "h": 577,
+                "w": 1024
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 338,
+                "w": 600
+              },
+              "small": {
+                "resize": "fit",
+                "h": 191,
+                "w": 340
+              },
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "source_status_id": 0,
+            "id": 706929113638916100,
+            "display_url": "pic.twitter.com/soiVzyryJX",
+            "expanded_url": "http://twitter.com/DroidconSF/status/707053995995435009/photo/1",
+            "url": "https://t.co/soiVzyryJX",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "favorite_count": 12,
+      "id_str": "707053995995435009",
+      "user": {
+        "created_at": "Tue Nov 03 08:04:21 +0000 2015",
+        "url": "https://t.co/qmX1BKvVcX",
+        "description": "Join us at Droidcon SF as we bring the world’s largest, community-driven, Android developer conference to San Francisco for the first time! 100% ANDROID",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sf.droidcon.com",
+                "expanded_url": "http://sf.droidcon.com/",
+                "url": "https://t.co/qmX1BKvVcX",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "time_zone": "Pacific Time (US & Canada)",
+        "screen_name": "DroidconSF",
+        "profile_text_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "id_str": "4103132535",
+        "profile_link_color": "5799D4",
+        "lang": "en",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703033415428222976/YewDI-XK_normal.jpg",
+        "location": "San Francisco, CA",
+        "name": "Droidcon SF",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703033415428222976/YewDI-XK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4103132535/1456448825",
+        "id": 4103132535,
+        "listed_count": 19,
+        "is_translator": false,
+        "profile_background_tile": false,
+        "geo_enabled": false,
+        "friends_count": 767,
+        "profile_use_background_image": false,
+        "protected": false,
+        "followers_count": 507,
+        "show_all_inline_media": false,
+        "follow_request_sent": false,
+        "statuses_count": 161,
+        "favourites_count": 196,
+        "default_profile_image": false,
+        "utc_offset": -28800,
+        "verified": false,
+        "default_profile": false,
+        "contributors_enabled": false
+      },
+      "text": "Want to explore custom activity transactions pre and post Lollipop? Come and join @joenrv at #DroidconSF! https://t.co/soiVzyryJX",
+      "lang": "en",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "id": 707053995995435000,
+      "in_reply_to_status_id": 0,
+      "in_reply_to_user_id": 0,
+      "possibly_sensitive": false,
+      "truncated": false,
+      "retweet_count": 4,
+      "withheld_copyright": false,
+      "retweeted": false,
+      "favorited": false
+    },
+    "id": 707096056631197700,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 4,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:47:40 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707095423056412672",
+    "user": {
+      "created_at": "Wed Sep 12 01:13:00 +0000 2007",
+      "url": "https://t.co/7gtE13FkHm",
+      "description": "FOSS developer lives in Taiwan. Join g0v community. Love Pixel Art and FF3 日本語を勉強します",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "julianchu.net",
+              "expanded_url": "http://julianchu.net",
+              "url": "https://t.co/7gtE13FkHm",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "walkingice",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "8822972",
+      "profile_link_color": "AAAAAA",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "location": "Hsinchu",
+      "name": "朱立 Ju1ian",
+      "profile_background_color": "333536",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8822972/1435370415",
+      "id": 8822972,
+      "listed_count": 40,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 187,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 532,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 5742,
+      "favourites_count": 295,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "「戈巴契夫頭髮最長，海珊總統最不愛打仗」 https://t.co/mChcKr09Hh",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707095423056412700,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:45:35 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707094895916421120",
+    "user": {
+      "created_at": "Sun Dec 18 13:34:57 +0000 2011",
+      "url": "http://t.co/dg19R614W5",
+      "description": "非路透社官方帐号。【Reuters 路透中文】推文均来自于路透中文网，专注于国际时事要闻、中国公司产业和投资资讯。管理员@dabaitwo",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cn.reuters.com",
+              "expanded_url": "http://cn.reuters.com",
+              "url": "http://t.co/dg19R614W5",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Beijing",
+      "screen_name": "ReutersCN",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "440022026",
+      "profile_link_color": "0084B4",
+      "lang": "zh-cn",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "location": "",
+      "name": "Reuters 路透中文",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "id": 440022026,
+      "listed_count": 179,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 6,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 17469,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 28107,
+      "favourites_count": 0,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "中国外长王毅称南海是世界上最自由和安全的航道之一 https://t.co/PBbOw1vOtU",
+    "lang": "zh",
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id": 707094895916421100,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:42:43 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707094176941215745",
+          "media_url": "http://pbs.twimg.com/media/CdAaaFdUEAEPjQf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAaaFdUEAEPjQf.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 574,
+              "w": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 336,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 191,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707094176941215700,
+          "display_url": "pic.twitter.com/xM1R1D7iWJ",
+          "expanded_url": "http://twitter.com/walkingice/status/707094178048573440/photo/1",
+          "url": "https://t.co/xM1R1D7iWJ",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707094178048573440",
+    "user": {
+      "created_at": "Wed Sep 12 01:13:00 +0000 2007",
+      "url": "https://t.co/7gtE13FkHm",
+      "description": "FOSS developer lives in Taiwan. Join g0v community. Love Pixel Art and FF3 日本語を勉強します",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "julianchu.net",
+              "expanded_url": "http://julianchu.net",
+              "url": "https://t.co/7gtE13FkHm",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "walkingice",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "8822972",
+      "profile_link_color": "AAAAAA",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "location": "Hsinchu",
+      "name": "朱立 Ju1ian",
+      "profile_background_color": "333536",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8822972/1435370415",
+      "id": 8822972,
+      "listed_count": 40,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 187,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 532,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 5742,
+      "favourites_count": 295,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "不過芳山農吧很有個性，開店時間是晚上六點到凌晨兩點，明顯不太想做外地觀光客的生意 https://t.co/xM1R1D7iWJ",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707094178048573400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:41:26 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707093841728249856",
+          "media_url": "http://pbs.twimg.com/media/CdAaGksUIAAB4si.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAaGksUIAAB4si.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 574,
+              "w": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 336,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 191,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707093841728249900,
+          "display_url": "pic.twitter.com/iLEn7f0seJ",
+          "expanded_url": "http://twitter.com/walkingice/status/707093853887549444/photo/1",
+          "url": "https://t.co/iLEn7f0seJ",
+          "indices": [
+            44,
+            67
+          ]
+        },
+        {
+          "id_str": "707093852788645889",
+          "media_url": "http://pbs.twimg.com/media/CdAaHN5UYAEq5_I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAaHN5UYAEq5_I.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 574,
+              "w": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 336,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 191,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707093852788645900,
+          "display_url": "pic.twitter.com/iLEn7f0seJ",
+          "expanded_url": "http://twitter.com/walkingice/status/707093853887549444/photo/1",
+          "url": "https://t.co/iLEn7f0seJ",
+          "indices": [
+            44,
+            67
+          ]
+        },
+        {
+          "id_str": "707093851182239744",
+          "media_url": "http://pbs.twimg.com/media/CdAaHH6UkAACMvM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAaHH6UkAACMvM.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 574,
+              "w": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 336,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 191,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707093851182239700,
+          "display_url": "pic.twitter.com/iLEn7f0seJ",
+          "expanded_url": "http://twitter.com/walkingice/status/707093853887549444/photo/1",
+          "url": "https://t.co/iLEn7f0seJ",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "favorite_count": 1,
+    "id_str": "707093853887549444",
+    "user": {
+      "created_at": "Wed Sep 12 01:13:00 +0000 2007",
+      "url": "https://t.co/7gtE13FkHm",
+      "description": "FOSS developer lives in Taiwan. Join g0v community. Love Pixel Art and FF3 日本語を勉強します",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "julianchu.net",
+              "expanded_url": "http://julianchu.net",
+              "url": "https://t.co/7gtE13FkHm",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "walkingice",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "8822972",
+      "profile_link_color": "AAAAAA",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "location": "Hsinchu",
+      "name": "朱立 Ju1ian",
+      "profile_background_color": "333536",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8822972/1435370415",
+      "id": 8822972,
+      "listed_count": 40,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 187,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 532,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 5742,
+      "favourites_count": 295,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "為了買啤酒頭的茶香釀啤酒，找到南庄的芳山農吧。原來在南庄老街旁就有一間風格明顯的小酒吧 https://t.co/iLEn7f0seJ",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707093853887549400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:38:46 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707093181980999681",
+          "media_url": "http://pbs.twimg.com/media/CdAZgK8UAAEvAj7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAZgK8UAAEvAj7.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 332,
+              "w": 332
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 332,
+              "w": 332
+            },
+            "small": {
+              "resize": "fit",
+              "h": 332,
+              "w": 332
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707093181980999700,
+          "display_url": "pic.twitter.com/DX182DxPaF",
+          "expanded_url": "http://twitter.com/weeklyascii/status/707093182085877760/photo/1",
+          "url": "https://t.co/DX182DxPaF",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "favorite_count": 10,
+    "id_str": "707093182085877760",
+    "user": {
+      "created_at": "Mon Jun 08 07:01:41 +0000 2009",
+      "url": "http://t.co/YO45er24zo",
+      "description": "週刊アスキー公式アカウントです。ニュース配信を交えつつゆるい感じでやってます。たくさんリプライやRTが来てるのでレス出来ないことが多いです。ゴメンなさい。問い合わせはこちらへどうぞ→http://t.co/iLFYenKIu2 。",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/a28OUx",
+              "expanded_url": "http://bit.ly/a28OUx",
+              "url": "http://t.co/iLFYenKIu2",
+              "indices": [
+                91,
+                113
+              ]
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "weekly.ascii.jp",
+              "expanded_url": "http://weekly.ascii.jp/",
+              "url": "http://t.co/YO45er24zo",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Tokyo",
+      "screen_name": "weeklyascii",
+      "profile_text_color": "666666",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "45517564",
+      "profile_link_color": "E00D0D",
+      "lang": "ja",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/606003749279047680/bUnGkUhI_normal.png",
+      "location": "東京都千代田区",
+      "name": "週刊アスキー",
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/747514929/2e0cfba11f52cb5c93f237f83ca7bd2b.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/747514929/2e0cfba11f52cb5c93f237f83ca7bd2b.jpeg",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/606003749279047680/bUnGkUhI_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/45517564/1433317633",
+      "id": 45517564,
+      "listed_count": 5179,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": false,
+      "friends_count": 18623,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 73687,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 73409,
+      "favourites_count": 3285,
+      "default_profile_image": false,
+      "utc_offset": 32400,
+      "verified": true,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "タイガース2軍50試合をニコ生で無料中継 掛布監督を見よう https://t.co/PQN2ZJ0REG https://t.co/DX182DxPaF",
+    "lang": "ja",
+    "source": "<a href=\"http://asciimw.jp\" rel=\"nofollow\">AMW TwBot</a>",
+    "id": 707093182085877800,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 14,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:35:30 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707092359498981377",
+    "user": {
+      "created_at": "Wed Sep 12 01:13:00 +0000 2007",
+      "url": "https://t.co/7gtE13FkHm",
+      "description": "FOSS developer lives in Taiwan. Join g0v community. Love Pixel Art and FF3 日本語を勉強します",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "julianchu.net",
+              "expanded_url": "http://julianchu.net",
+              "url": "https://t.co/7gtE13FkHm",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "walkingice",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "8822972",
+      "profile_link_color": "AAAAAA",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "location": "Hsinchu",
+      "name": "朱立 Ju1ian",
+      "profile_background_color": "333536",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8822972/1435370415",
+      "id": 8822972,
+      "listed_count": 40,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 187,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 532,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 5742,
+      "favourites_count": 295,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "今年過年到姑姑家吃飯，小孩們挖出了我小時候玩過的舊玩具，其中一項就是樂高積木。小時候很羨慕表弟有這麼多積木可以玩，現在我終於可以自己買了！(也要等小孩長大一點才行 XD)",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707092359498981400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:33:06 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707091756223860736",
+    "user": {
+      "created_at": "Wed Sep 12 01:13:00 +0000 2007",
+      "url": "https://t.co/7gtE13FkHm",
+      "description": "FOSS developer lives in Taiwan. Join g0v community. Love Pixel Art and FF3 日本語を勉強します",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "julianchu.net",
+              "expanded_url": "http://julianchu.net",
+              "url": "https://t.co/7gtE13FkHm",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "walkingice",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "8822972",
+      "profile_link_color": "AAAAAA",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "location": "Hsinchu",
+      "name": "朱立 Ju1ian",
+      "profile_background_color": "333536",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3063807591/fe352fa9acc465d16fc5b2e346008f23_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8822972/1435370415",
+      "id": 8822972,
+      "listed_count": 40,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 187,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 532,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 5742,
+      "favourites_count": 295,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "看了就好想去啊！ 《台北樂高好好買：十大名店挖磚》https://t.co/aLr7ACQ2Ja\n\n#lego #taipei",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707091756223860700,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:23:34 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707089355211321346",
+          "media_url": "http://pbs.twimg.com/media/CdAWBbHUsAI9oNp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAWBbHUsAI9oNp.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 308,
+              "w": 462
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 308,
+              "w": 462
+            },
+            "small": {
+              "resize": "fit",
+              "h": 227,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707089355211321300,
+          "display_url": "pic.twitter.com/SZ6aF2vYCp",
+          "expanded_url": "http://twitter.com/asahi_shinsen/status/707089355890790400/photo/1",
+          "url": "https://t.co/SZ6aF2vYCp",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707089355890790400",
+    "user": {
+      "created_at": "Fri Feb 25 07:04:56 +0000 2011",
+      "url": "http://t.co/hIZBmUah05",
+      "description": "朝日新聞初の中国語ウエブ「朝日新聞中文網」のアカウントです。中華圏や日本の読者に向けて発信します。",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "asahichinese.com",
+              "expanded_url": "http://asahichinese.com/",
+              "url": "http://t.co/hIZBmUah05",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Irkutsk",
+      "screen_name": "asahi_shinsen",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "257355108",
+      "profile_link_color": "0084B4",
+      "lang": "zh-cn",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/517538223916994561/ZnXJd_fq_normal.jpeg",
+      "location": "東京",
+      "name": "朝日新聞中文網",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/517538223916994561/ZnXJd_fq_normal.jpeg",
+      "id": 257355108,
+      "listed_count": 428,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 1950,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 14303,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 6085,
+      "favourites_count": 7,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": true,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "【山口组分裂暴力对抗升级 警方全面加强警戒】近来，日本国内最大规模黑社会山口组，与从山口组中分裂出来另立门户的神户山口组两团体旗下组织之间，屡屡发生冲突事件。详见:https://t.co/ft89E0Kgw2 https://t.co/SZ6aF2vYCp",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707089355890790400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:19:37 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707088338570743810",
+          "media_url": "http://pbs.twimg.com/media/CdAVGP1UkAIrgoE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAVGP1UkAIrgoE.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 768,
+              "w": 1024
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 450,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 255,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707088338570743800,
+          "display_url": "pic.twitter.com/FCpkQSwsWe",
+          "expanded_url": "http://twitter.com/ihower/status/707088363392643072/photo/1",
+          "url": "https://t.co/FCpkQSwsWe",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "favorite_count": 2,
+    "id_str": "707088363392643072",
+    "user": {
+      "created_at": "Sat Aug 04 04:58:38 +0000 2007",
+      "url": "https://t.co/MFHSJbxG2E",
+      "description": "software developer and web development instructor at https://t.co/JjXu1qj2jq",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "alphacamp.co",
+              "expanded_url": "https://alphacamp.co",
+              "url": "https://t.co/JjXu1qj2jq",
+              "indices": [
+                53,
+                76
+              ]
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ihower.tw",
+              "expanded_url": "https://ihower.tw",
+              "url": "https://t.co/MFHSJbxG2E",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "ihower",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "7948072",
+      "profile_link_color": "DD2E44",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315684587/0b7koao67cdesu0zxf6v_normal.jpeg",
+      "location": "Hsinchu ⇄ Taipei, Taiwan",
+      "name": "i͛ho͌ͯͦ̉͑we̍̃̏ͣr̆̽̓",
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315684587/0b7koao67cdesu0zxf6v_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7948072/1450727069",
+      "id": 7948072,
+      "listed_count": 201,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": true,
+      "friends_count": 1177,
+      "profile_use_background_image": false,
+      "protected": false,
+      "followers_count": 7047,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 5445,
+      "favourites_count": 1356,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "第一次買樹莓派，Raspbian Jessie 有預裝 Ruby 2.1.5 耶 https://t.co/FCpkQSwsWe",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "id": 707088363392643100,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:16:45 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707087639942279169",
+    "user": {
+      "created_at": "Thu Jul 26 03:16:50 +0000 2007",
+      "url": "http://t.co/W60ZuLV3QI",
+      "description": "我是阿土伯，熱情於自由軟體開發與研究的老宅...",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "racklin.blogspot.com",
+              "expanded_url": "http://racklin.blogspot.com/",
+              "url": "http://t.co/W60ZuLV3QI",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "racklin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "7727362",
+      "profile_link_color": "009999",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "阿土伯",
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "id": 7727362,
+      "listed_count": 32,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 522,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1814,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 3743,
+      "favourites_count": 223,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "https://t.co/6hxGlIcdrl",
+    "lang": "und",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "id": 707087639942279200,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:15:51 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707087413189984256",
+    "user": {
+      "created_at": "Thu Jul 26 03:16:50 +0000 2007",
+      "url": "http://t.co/W60ZuLV3QI",
+      "description": "我是阿土伯，熱情於自由軟體開發與研究的老宅...",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "racklin.blogspot.com",
+              "expanded_url": "http://racklin.blogspot.com/",
+              "url": "http://t.co/W60ZuLV3QI",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "racklin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "7727362",
+      "profile_link_color": "009999",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "阿土伯",
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "id": 7727362,
+      "listed_count": 32,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 522,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1814,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 3743,
+      "favourites_count": 223,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "https://t.co/nt6mV82LAz",
+    "lang": "und",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "id": 707087413189984300,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:13:11 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707075440947507200",
+          "media_url": "http://pbs.twimg.com/media/CdAJXgcUMAADDj5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAJXgcUMAADDj5.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 511,
+              "w": 690
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 444,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 252,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "707075443627663360",
+          "source_status_id": 707075443627663400,
+          "id": 707075440947507200,
+          "display_url": "pic.twitter.com/VaI7FYXVrq",
+          "expanded_url": "http://twitter.com/zuxin_dtmer/status/707075443627663360/photo/1",
+          "url": "https://t.co/VaI7FYXVrq",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707086743867097088",
+    "user": {
+      "created_at": "Thu Jul 26 03:16:50 +0000 2007",
+      "url": "http://t.co/W60ZuLV3QI",
+      "description": "我是阿土伯，熱情於自由軟體開發與研究的老宅...",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "racklin.blogspot.com",
+              "expanded_url": "http://racklin.blogspot.com/",
+              "url": "http://t.co/W60ZuLV3QI",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "racklin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "7727362",
+      "profile_link_color": "009999",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "阿土伯",
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "id": 7727362,
+      "listed_count": 32,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 522,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1814,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 3743,
+      "favourites_count": 223,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "Retweeted Zuxin (@zuxin_dtmer):\n\n程序没学好，妹子也没追到的标语 https://t.co/VaI7FYXVrq https://t.co/oV08PZdM9K",
+    "lang": "zh",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "id": 707086743867097100,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:13:05 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707075440947507200",
+          "media_url": "http://pbs.twimg.com/media/CdAJXgcUMAADDj5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAJXgcUMAADDj5.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 511,
+              "w": 690
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 444,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 252,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "707075443627663360",
+          "source_status_id": 707075443627663400,
+          "id": 707075440947507200,
+          "display_url": "pic.twitter.com/rYYZI0h8Qy",
+          "expanded_url": "http://twitter.com/zuxin_dtmer/status/707075443627663360/photo/1",
+          "url": "https://t.co/rYYZI0h8Qy",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707086719347130370",
+    "user": {
+      "created_at": "Thu Jul 26 03:16:50 +0000 2007",
+      "url": "http://t.co/W60ZuLV3QI",
+      "description": "我是阿土伯，熱情於自由軟體開發與研究的老宅...",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "racklin.blogspot.com",
+              "expanded_url": "http://racklin.blogspot.com/",
+              "url": "http://t.co/W60ZuLV3QI",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "racklin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "7727362",
+      "profile_link_color": "009999",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "阿土伯",
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "id": 7727362,
+      "listed_count": 32,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 522,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1814,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 3743,
+      "favourites_count": 223,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "RT @zuxin_dtmer: 程序没学好，妹子也没追到的标语 https://t.co/rYYZI0h8Qy",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "created_at": "Tue Mar 08 05:28:17 +0000 2016",
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "707075440947507200",
+            "media_url": "http://pbs.twimg.com/media/CdAJXgcUMAADDj5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CdAJXgcUMAADDj5.jpg",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "h": 511,
+                "w": 690
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 444,
+                "w": 600
+              },
+              "small": {
+                "resize": "fit",
+                "h": 252,
+                "w": 340
+              },
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "source_status_id": 0,
+            "id": 707075440947507200,
+            "display_url": "pic.twitter.com/rYYZI0h8Qy",
+            "expanded_url": "http://twitter.com/zuxin_dtmer/status/707075443627663360/photo/1",
+            "url": "https://t.co/rYYZI0h8Qy",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "favorite_count": 16,
+      "id_str": "707075443627663360",
+      "user": {
+        "created_at": "Sun Jul 01 10:49:52 +0000 2012",
+        "url": "https://t.co/Dxfy2IM53Q",
+        "description": "中国語/English 日本語を勉強しています 東方Project/音ゲー/DTM好き IIDX(CS)SP六段/BMS☆6 C4Cat:Dynamix[月下桜天國］作曲 Steam:https://t.co/dZpJggz7EZ LR2ID:067681 3DS:2552-3318-3457",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/zuxin/",
+                "expanded_url": "http://steamcommunity.com/id/zuxin/",
+                "url": "https://t.co/dZpJggz7EZ",
+                "indices": [
+                  92,
+                  115
+                ]
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/wuliaop",
+                "expanded_url": "https://soundcloud.com/wuliaop",
+                "url": "https://t.co/Dxfy2IM53Q",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "time_zone": "Beijing",
+        "screen_name": "zuxin_dtmer",
+        "profile_text_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "id_str": "623636387",
+        "profile_link_color": "DD2E44",
+        "lang": "zh-cn",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/697395887597711360/G8VJ9q43_normal.png",
+        "location": "大宇宙",
+        "name": "Zuxin",
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/697395887597711360/G8VJ9q43_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/623636387/1429181219",
+        "id": 623636387,
+        "listed_count": 2,
+        "is_translator": false,
+        "profile_background_tile": false,
+        "geo_enabled": true,
+        "friends_count": 638,
+        "profile_use_background_image": false,
+        "protected": false,
+        "followers_count": 267,
+        "show_all_inline_media": false,
+        "follow_request_sent": false,
+        "statuses_count": 1150,
+        "favourites_count": 226,
+        "default_profile_image": false,
+        "utc_offset": 28800,
+        "verified": false,
+        "default_profile": false,
+        "contributors_enabled": false
+      },
+      "text": "程序没学好，妹子也没追到的标语 https://t.co/rYYZI0h8Qy",
+      "lang": "zh",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "id": 707075443627663400,
+      "in_reply_to_status_id": 0,
+      "in_reply_to_user_id": 0,
+      "possibly_sensitive": false,
+      "truncated": false,
+      "retweet_count": 50,
+      "withheld_copyright": false,
+      "retweeted": false,
+      "favorited": false
+    },
+    "id": 707086719347130400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 50,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:11:55 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707086426475728896",
+    "user": {
+      "created_at": "Sun Dec 18 13:34:57 +0000 2011",
+      "url": "http://t.co/dg19R614W5",
+      "description": "非路透社官方帐号。【Reuters 路透中文】推文均来自于路透中文网，专注于国际时事要闻、中国公司产业和投资资讯。管理员@dabaitwo",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cn.reuters.com",
+              "expanded_url": "http://cn.reuters.com",
+              "url": "http://t.co/dg19R614W5",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Beijing",
+      "screen_name": "ReutersCN",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "440022026",
+      "profile_link_color": "0084B4",
+      "lang": "zh-cn",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "location": "",
+      "name": "Reuters 路透中文",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "id": 440022026,
+      "listed_count": 179,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 6,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 17469,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 28107,
+      "favourites_count": 0,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "萨摩亚发生6.2级地震--美国地质调查局 https://t.co/MGvjyo4NVZ",
+    "lang": "zh",
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id": 707086426475728900,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:11:55 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707086424395354112",
+    "user": {
+      "created_at": "Sun Dec 18 13:34:57 +0000 2011",
+      "url": "http://t.co/dg19R614W5",
+      "description": "非路透社官方帐号。【Reuters 路透中文】推文均来自于路透中文网，专注于国际时事要闻、中国公司产业和投资资讯。管理员@dabaitwo",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cn.reuters.com",
+              "expanded_url": "http://cn.reuters.com",
+              "url": "http://t.co/dg19R614W5",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Beijing",
+      "screen_name": "ReutersCN",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "440022026",
+      "profile_link_color": "0084B4",
+      "lang": "zh-cn",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "location": "",
+      "name": "Reuters 路透中文",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "id": 440022026,
+      "listed_count": 179,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 6,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 17469,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 28107,
+      "favourites_count": 0,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "朝鲜曾试图入侵韩国铁路系统--韩国国家情报院 https://t.co/W6DXAbiVwA",
+    "lang": "zh",
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id": 707086424395354100,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:11:54 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707086421715193856",
+    "user": {
+      "created_at": "Sun Dec 18 13:34:57 +0000 2011",
+      "url": "http://t.co/dg19R614W5",
+      "description": "非路透社官方帐号。【Reuters 路透中文】推文均来自于路透中文网，专注于国际时事要闻、中国公司产业和投资资讯。管理员@dabaitwo",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cn.reuters.com",
+              "expanded_url": "http://cn.reuters.com",
+              "url": "http://t.co/dg19R614W5",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Beijing",
+      "screen_name": "ReutersCN",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "440022026",
+      "profile_link_color": "0084B4",
+      "lang": "zh-cn",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "location": "",
+      "name": "Reuters 路透中文",
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3494303755/8a28894cb86ec104a2c0c26aeac04d6f_normal.png",
+      "id": 440022026,
+      "listed_count": 179,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 6,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 17469,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 28107,
+      "favourites_count": 0,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": true,
+      "contributors_enabled": false
+    },
+    "text": "欧盟领导人欢迎土耳其接回移民的提议 协议细节尚待磋商 https://t.co/W2Ml0ZCcKv",
+    "lang": "zh",
+    "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "id": 707086421715193900,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:11:36 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707071883414413313",
+          "media_url": "http://pbs.twimg.com/media/CdAGIbmVIAEc2xH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAGIbmVIAEc2xH.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 696,
+              "w": 700
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 597,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 338,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "707071885436014592",
+          "source_status_id": 707071885436014600,
+          "id": 707071883414413300,
+          "display_url": "pic.twitter.com/ycA40hXrQP",
+          "expanded_url": "http://twitter.com/timsid99/status/707071885436014592/photo/1",
+          "url": "https://t.co/ycA40hXrQP",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "favorite_count": 1,
+    "id_str": "707086346800660480",
+    "user": {
+      "created_at": "Thu Jul 26 03:16:50 +0000 2007",
+      "url": "http://t.co/W60ZuLV3QI",
+      "description": "我是阿土伯，熱情於自由軟體開發與研究的老宅...",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "racklin.blogspot.com",
+              "expanded_url": "http://racklin.blogspot.com/",
+              "url": "http://t.co/W60ZuLV3QI",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "racklin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "7727362",
+      "profile_link_color": "009999",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "阿土伯",
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "id": 7727362,
+      "listed_count": 32,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 522,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1814,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 3743,
+      "favourites_count": 223,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "Retweeted timsid99 (@timsid99):\n\n美國選舉文宣鴨舌帽。\n「讓美國再次偉大。」\n\n「中國製造。」\n\nfrom @9gag https://t.co/ycA40hXrQP https://t.co/aPKJOeDEx6",
+    "lang": "zh",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "id": 707086346800660500,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 1,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:11:32 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707086330237308929",
+    "user": {
+      "created_at": "Thu Jul 26 03:16:50 +0000 2007",
+      "url": "http://t.co/W60ZuLV3QI",
+      "description": "我是阿土伯，熱情於自由軟體開發與研究的老宅...",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "racklin.blogspot.com",
+              "expanded_url": "http://racklin.blogspot.com/",
+              "url": "http://t.co/W60ZuLV3QI",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "racklin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "7727362",
+      "profile_link_color": "009999",
+      "lang": "zh-tw",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "location": "Taipei, Taiwan",
+      "name": "阿土伯",
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/700763005525430272/yir9wxxj_normal.jpg",
+      "id": 7727362,
+      "listed_count": 32,
+      "is_translator": false,
+      "profile_background_tile": true,
+      "geo_enabled": true,
+      "friends_count": 522,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1814,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 3743,
+      "favourites_count": 223,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "Retweeted Nathalie Gordon (@awlilnatty):\n\nIf only nature would find a way to cover these oranges so we didn't... https://t.co/ewkfRzNsZD",
+    "lang": "en",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "id": 707086330237308900,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:11:15 +0000 2016",
+    "favorite_count": 1,
+    "id_str": "707086259521335296",
+    "user": {
+      "created_at": "Mon Nov 20 15:55:45 +0000 2006",
+      "url": "http://t.co/Sr99Lh9dv6",
+      "description": "CEO & co-founder of Cubie. An Enthusiastic programmer.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tempofeng.tumblr.com",
+              "expanded_url": "http://tempofeng.tumblr.com",
+              "url": "http://t.co/Sr99Lh9dv6",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "tempofeng",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_sidebar_border_color": "EEEEEE",
+      "id_str": "13269",
+      "profile_link_color": "038543",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/14866392/sonic2_normal.jpg",
+      "location": "Taiwan",
+      "name": "tempo",
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/14866392/sonic2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13269/1359137777",
+      "id": 13269,
+      "listed_count": 88,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": true,
+      "friends_count": 591,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 2413,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 9420,
+      "favourites_count": 9709,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "“Building to Independence on Top of Other Platforms” by @joshelman https://t.co/9VJgArquZ4",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "id": 707086259521335300,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:08:28 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707071883414413313",
+          "media_url": "http://pbs.twimg.com/media/CdAGIbmVIAEc2xH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAGIbmVIAEc2xH.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 696,
+              "w": 700
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 597,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 338,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "707071885436014592",
+          "source_status_id": 707071885436014600,
+          "id": 707071883414413300,
+          "display_url": "pic.twitter.com/Cl2lphlryA",
+          "expanded_url": "http://twitter.com/timsid99/status/707071885436014592/photo/1",
+          "url": "https://t.co/Cl2lphlryA",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707085558497980417",
+    "user": {
+      "created_at": "Sun May 18 03:54:16 +0000 2008",
+      "url": "https://t.co/Fx1nOp7CLw",
+      "description": "都散了吧，哪裡幹嘛哪裡去，有病就要吃藥。",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hychen.me",
+              "expanded_url": "http://hychen.me/",
+              "url": "https://t.co/Fx1nOp7CLw",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "hychen",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "14817529",
+      "profile_link_color": "ABB8C2",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000764656007/257ec7e97d932fb7f082b03d65d2a9ef_normal.jpeg",
+      "location": "somewhereidon'tknow",
+      "name": "hychen",
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000764656007/257ec7e97d932fb7f082b03d65d2a9ef_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14817529/1368296753",
+      "id": 14817529,
+      "listed_count": 28,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 198,
+      "profile_use_background_image": false,
+      "protected": false,
+      "followers_count": 472,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 1740,
+      "favourites_count": 11,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "RT @timsid99: 美國選舉文宣鴨舌帽。\n「讓美國再次偉大。」\n\n「中國製造。」\n\nfrom @9gag https://t.co/Cl2lphlryA",
+    "lang": "zh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "created_at": "Tue Mar 08 05:14:08 +0000 2016",
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "707071883414413313",
+            "media_url": "http://pbs.twimg.com/media/CdAGIbmVIAEc2xH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CdAGIbmVIAEc2xH.jpg",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "h": 696,
+                "w": 700
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 597,
+                "w": 600
+              },
+              "small": {
+                "resize": "fit",
+                "h": 338,
+                "w": 340
+              },
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "source_status_id": 0,
+            "id": 707071883414413300,
+            "display_url": "pic.twitter.com/Cl2lphlryA",
+            "expanded_url": "http://twitter.com/timsid99/status/707071885436014592/photo/1",
+            "url": "https://t.co/Cl2lphlryA",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "favorite_count": 20,
+      "id_str": "707071885436014592",
+      "user": {
+        "created_at": "Fri Jul 06 20:19:50 +0000 2007",
+        "url": "http://t.co/e48eurIBrl",
+        "description": "Taiwanese / #MFFL / #WWE / #NJPW / 摔角迷兼好奇鄉民。",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/timsid99",
+                "expanded_url": "http://about.me/timsid99",
+                "url": "http://t.co/e48eurIBrl",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          }
+        },
+        "time_zone": "Taipei",
+        "screen_name": "timsid99",
+        "profile_text_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "id_str": "7300742",
+        "profile_link_color": "131516",
+        "lang": "zh-tw",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694045160531886080/DWbMb306_normal.jpg",
+        "location": "Hualien,Taiwan",
+        "name": "timsid99",
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694045160531886080/DWbMb306_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7300742/1446488125",
+        "id": 7300742,
+        "listed_count": 26,
+        "is_translator": false,
+        "profile_background_tile": false,
+        "geo_enabled": false,
+        "friends_count": 96,
+        "profile_use_background_image": true,
+        "protected": false,
+        "followers_count": 843,
+        "show_all_inline_media": false,
+        "follow_request_sent": false,
+        "statuses_count": 10894,
+        "favourites_count": 2168,
+        "default_profile_image": false,
+        "utc_offset": 28800,
+        "verified": false,
+        "default_profile": false,
+        "contributors_enabled": false
+      },
+      "text": "美國選舉文宣鴨舌帽。\n「讓美國再次偉大。」\n\n「中國製造。」\n\nfrom @9gag https://t.co/Cl2lphlryA",
+      "lang": "zh",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "id": 707071885436014600,
+      "in_reply_to_status_id": 0,
+      "in_reply_to_user_id": 0,
+      "possibly_sensitive": false,
+      "truncated": false,
+      "retweet_count": 23,
+      "withheld_copyright": false,
+      "retweeted": false,
+      "favorited": false
+    },
+    "id": 707085558497980400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 23,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:07:26 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707085298170105856",
+    "user": {
+      "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+      "url": "http://t.co/qK0IS8oQzu",
+      "description": "Professional instructor on fullstack development with React/Flux/Nodejs/Loopback. Founder of lovelyreader, pubulous and visualmarks.  Avid runner and cyclist.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fullstackrocks.com",
+              "expanded_url": "http://www.fullstackrocks.com",
+              "url": "http://t.co/qK0IS8oQzu",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "thecat",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_sidebar_border_color": "87BC44",
+      "id_str": "807633",
+      "profile_link_color": "3B94D9",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+      "location": "right here, right now",
+      "name": "Jeremy Lu",
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+      "id": 807633,
+      "listed_count": 72,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": false,
+      "friends_count": 1086,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 1274,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 14012,
+      "favourites_count": 641,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "手一滑跑了下面這行不知道會發生什麼事 XDDD\n\nnpm install --save react@15.0.0-rc.1 react-dom@15.0.0-rc.1",
+    "lang": "zh",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "id": 707085298170105900,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 06:07:03 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "705375554279755776",
+          "media_url": "http://pbs.twimg.com/media/Ccn_VFIW0AA-YRF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ccn_VFIW0AA-YRF.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 960
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 600,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 340,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "705375555030556672",
+          "source_status_id": 705375555030556700,
+          "id": 705375554279755800,
+          "display_url": "pic.twitter.com/00YECaHB4D",
+          "expanded_url": "http://twitter.com/awlilnatty/status/705375555030556672/photo/1",
+          "url": "https://t.co/00YECaHB4D",
+          "indices": [
+            123,
+            140
+          ]
+        }
+      ]
+    },
+    "favorite_count": 0,
+    "id_str": "707085199352303616",
+    "user": {
+      "created_at": "Thu Mar 29 05:55:33 +0000 2007",
+      "url": "http://t.co/8Ox0kmIuST",
+      "description": "阿宅",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "blog.ijliao.info",
+              "expanded_url": "http://blog.ijliao.info/",
+              "url": "http://t.co/8Ox0kmIuST",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "ijliao",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_sidebar_border_color": "87BC44",
+      "id_str": "2795511",
+      "profile_link_color": "0000FF",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/36121892/favicon_normal.png",
+      "location": "Taipei, Taiwan",
+      "name": "Ying-Chieh Liao",
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/36121892/favicon_normal.png",
+      "id": 2795511,
+      "listed_count": 82,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": true,
+      "friends_count": 384,
+      "profile_use_background_image": true,
+      "protected": false,
+      "followers_count": 2080,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 25983,
+      "favourites_count": 3,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "RT @awlilnatty: If only nature would find a way to cover these oranges so we didn't need to waste so much plastic on them. https://t.co/00Y…",
+    "lang": "en",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "retweeted_status": {
+      "created_at": "Thu Mar 03 12:53:32 +0000 2016",
+      "extended_entities": {
+        "media": [
+          {
+            "id_str": "705375554279755776",
+            "media_url": "http://pbs.twimg.com/media/Ccn_VFIW0AA-YRF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ccn_VFIW0AA-YRF.jpg",
+            "sizes": {
+              "large": {
+                "resize": "fit",
+                "h": 960,
+                "w": 960
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 600,
+                "w": 600
+              },
+              "small": {
+                "resize": "fit",
+                "h": 340,
+                "w": 340
+              },
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "source_status_id": 0,
+            "id": 705375554279755800,
+            "display_url": "pic.twitter.com/00YECaHB4D",
+            "expanded_url": "http://twitter.com/awlilnatty/status/705375555030556672/photo/1",
+            "url": "https://t.co/00YECaHB4D",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "favorite_count": 95739,
+      "id_str": "705375555030556672",
+      "user": {
+        "created_at": "Sat Feb 19 18:51:48 +0000 2011",
+        "url": "https://t.co/B9RotUpXyU",
+        "description": "Advertising Creative- too busy watering my own grass to notice if yours is greener. Will work for bacon. #thisdoesntmeanyes & #taxifabric co-founder",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thisdoesntmeanyes.com",
+                "expanded_url": "http://thisdoesntmeanyes.com",
+                "url": "https://t.co/B9RotUpXyU",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "time_zone": "Pacific Time (US & Canada)",
+        "screen_name": "awlilnatty",
+        "profile_text_color": "895429",
+        "profile_sidebar_fill_color": "0E0D02",
+        "profile_sidebar_border_color": "000000",
+        "id_str": "254660986",
+        "profile_link_color": "53C0F2",
+        "lang": "en",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/609652241109266432/A4GLGIgf_normal.jpg",
+        "location": "London",
+        "name": "Nathalie Gordon",
+        "profile_background_color": "0E0D02",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647349868437086208/j_7vrAdN.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647349868437086208/j_7vrAdN.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/609652241109266432/A4GLGIgf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254660986/1440415178",
+        "id": 254660986,
+        "listed_count": 52,
+        "is_translator": false,
+        "profile_background_tile": true,
+        "geo_enabled": true,
+        "friends_count": 670,
+        "profile_use_background_image": true,
+        "protected": false,
+        "followers_count": 4313,
+        "show_all_inline_media": false,
+        "follow_request_sent": false,
+        "statuses_count": 10123,
+        "favourites_count": 3419,
+        "default_profile_image": false,
+        "utc_offset": -28800,
+        "verified": false,
+        "default_profile": false,
+        "contributors_enabled": false
+      },
+      "text": "If only nature would find a way to cover these oranges so we didn't need to waste so much plastic on them. https://t.co/00YECaHB4D",
+      "lang": "en",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "id": 705375555030556700,
+      "in_reply_to_status_id": 0,
+      "in_reply_to_user_id": 0,
+      "possibly_sensitive": false,
+      "truncated": false,
+      "retweet_count": 98963,
+      "withheld_copyright": false,
+      "retweeted": false,
+      "favorited": false
+    },
+    "id": 707085199352303600,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 98963,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "coordinates": {
+      "coordinates": [
+        121.54717992,
+        25.17639473
+      ],
+      "type": "Point"
+    },
+    "created_at": "Tue Mar 08 06:05:27 +0000 2016",
+    "favorite_count": 0,
+    "id_str": "707084799958245376",
+    "user": {
+      "created_at": "Fri Oct 31 08:41:23 +0000 2008",
+      "url": "https://t.co/DbDs0E5p6Z",
+      "description": "Yu-Cheng Chuang. aka 鴨七、ヨクシン。 Web Developer & Ruby on Rails。アニメファン。日本語が少し話せる・识简書繁。",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "blog.yorkxin.org",
+              "expanded_url": "http://blog.yorkxin.org",
+              "url": "https://t.co/DbDs0E5p6Z",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Taipei",
+      "screen_name": "yorkxin",
+      "profile_text_color": "333333",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "17082341",
+      "profile_link_color": "3B94D9",
+      "lang": "en",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494152247945613314/DKvDWXMO_normal.png",
+      "location": "Taipei, Taiwan",
+      "name": "Yu-Cheng Chuang",
+      "profile_background_color": "002B36",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494152247945613314/DKvDWXMO_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17082341/1432392748",
+      "id": 17082341,
+      "listed_count": 76,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": true,
+      "friends_count": 488,
+      "profile_use_background_image": false,
+      "protected": false,
+      "followers_count": 1718,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 25737,
+      "favourites_count": 4359,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "硫磺山 @ 陽眀山小油坑火山口 https://t.co/lPmQN9cbRh",
+    "lang": "ja",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              121.457132,
+              24.960508
+            ],
+            [
+              121.66582,
+              24.960508
+            ],
+            [
+              121.66582,
+              25.211004
+            ],
+            [
+              121.457132,
+              25.211004
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "country": "台灣",
+      "country_code": "TW",
+      "full_name": "Taipei City, Taiwan",
+      "id": "00180402799fed03",
+      "name": "Taipei City",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "id": 707084799958245400,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 0,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  },
+  {
+    "created_at": "Tue Mar 08 05:58:16 +0000 2016",
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "707082950815272960",
+          "media_url": "http://pbs.twimg.com/media/CdAQMo4UUAAQ_B0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAQMo4UUAAQ_B0.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 904
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 850,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 481,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707082950815273000,
+          "display_url": "pic.twitter.com/ZWIFuQDf7x",
+          "expanded_url": "http://twitter.com/SEALDs_jpn/status/707082988266205184/photo/1",
+          "url": "https://t.co/ZWIFuQDf7x",
+          "indices": [
+            116,
+            139
+          ]
+        },
+        {
+          "id_str": "707082967395373056",
+          "media_url": "http://pbs.twimg.com/media/CdAQNmpUkAASr0g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CdAQNmpUkAASr0g.jpg",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 904
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 850,
+              "w": 600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 481,
+              "w": 340
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "source_status_id": 0,
+          "id": 707082967395373000,
+          "display_url": "pic.twitter.com/ZWIFuQDf7x",
+          "expanded_url": "http://twitter.com/SEALDs_jpn/status/707082988266205184/photo/1",
+          "url": "https://t.co/ZWIFuQDf7x",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorite_count": 18,
+    "id_str": "707082988266205184",
+    "user": {
+      "created_at": "Sat Feb 22 21:11:40 +0000 2014",
+      "url": "https://t.co/RxOP2SEJA8",
+      "description": "SEALDs（シールズ)Official 公式 自由と民主主義のための学生緊急行動 取材・イベント依頼等はsealdsjpn@ https://t.co/N8GNSmAmm4までよろしくお願いします。70th動画(https://t.co/p8noe8j9CH)",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "gmail.com",
+              "expanded_url": "http://gmail.com",
+              "url": "https://t.co/N8GNSmAmm4",
+              "indices": [
+                64,
+                87
+              ]
+            },
+            {
+              "display_url": "youtube.com/embed/jwiYzpaa…",
+              "expanded_url": "https://www.youtube.com/embed/jwiYzpaa30o",
+              "url": "https://t.co/p8noe8j9CH",
+              "indices": [
+                107,
+                130
+              ]
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "sealds.com",
+              "expanded_url": "http://www.sealds.com",
+              "url": "https://t.co/RxOP2SEJA8",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "time_zone": "Irkutsk",
+      "screen_name": "SEALDs_jpn",
+      "profile_text_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "id_str": "2356938158",
+      "profile_link_color": "ABB8C2",
+      "lang": "ja",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/594586283856371712/Md73DgFh_normal.jpg",
+      "location": "Tokyo, Japan",
+      "name": "SEALDs@3/13新宿街宣",
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/594586283856371712/Md73DgFh_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2356938158/1457077444",
+      "id": 2356938158,
+      "listed_count": 1377,
+      "is_translator": false,
+      "profile_background_tile": false,
+      "geo_enabled": true,
+      "friends_count": 2276,
+      "profile_use_background_image": false,
+      "protected": false,
+      "followers_count": 62475,
+      "show_all_inline_media": false,
+      "follow_request_sent": false,
+      "statuses_count": 34898,
+      "favourites_count": 20370,
+      "default_profile_image": false,
+      "utc_offset": 28800,
+      "verified": false,
+      "default_profile": false,
+      "contributors_enabled": false
+    },
+    "text": "フライヤー完成しました。日曜の午後はアルタ前へ！\n\n【拡散お願いします】\nSEALDs・学者の会主催の街宣行動！\n3月13日(日)14:00～16:00新宿東口アルタ前広場\n\nGive Peace a Chance～未来を選びとる https://t.co/ZWIFuQDf7x",
+    "lang": "ja",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "id": 707082988266205200,
+    "in_reply_to_status_id": 0,
+    "in_reply_to_user_id": 0,
+    "possibly_sensitive": false,
+    "truncated": false,
+    "retweet_count": 59,
+    "withheld_copyright": false,
+    "retweeted": false,
+    "favorited": false
+  }
+]

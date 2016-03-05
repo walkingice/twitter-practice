@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="@dimen/gutter"
+    >
+
+    <ImageView
+        android:id="@id/row_avatar"
+        style="@style/fieldAvatar"
+        android:layout_width="@dimen/avatar_width"
+        android:layout_height="@dimen/avatar_width"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/empty_avatar"/>
+
+    <TextView
+        android:id="@id/row_name"
+        style="@style/fieldName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/row_avatar"
+        android:text="Name"/>
+
+    <TextView
+        android:id="@id/row_symbol"
+        style="@style/fieldScreenName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/row_name"
+        android:text="\@"/>
+
+    <TextView
+        android:id="@id/row_screen_name"
+        style="@style/fieldScreenName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/row_symbol"
+        android:text="screen_name"/>
+
+    <TextView
+        android:id="@id/row_time"
+        style="@style/fieldTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:text="2016/04/01"/>
+
+    <TextView
+        android:id="@id/row_content"
+        style="@style/fieldContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/row_name"
+        android:layout_toEndOf="@id/row_avatar"
+        android:text="Tweet Content"/>
+
+</RelativeLayout>

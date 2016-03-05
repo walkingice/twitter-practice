@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Twitter FiNC</string>
+
+    <string name="settings">Settings</string>
+
+    <!-- Strings for SharedPreferences -->
+    <string name="key_use_fake">pref_key_use_fake_data</string>
+    <string name="key_consumer_key">pref_key_consumer_key</string>
+    <string name="key_consumer_secret">pref_key_consumer_secret</string>
+    <string name="key_access_token">pref_key_access_token</string>
+    <string name="key_access_secret">pref_key_access_secret</string>
+    <string name="key_clear">pref_key_clear</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

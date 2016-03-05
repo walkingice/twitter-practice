@@ -1,0 +1,39 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/settings"
+        >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/key_use_fake"
+            android:summary="Enable this option to use fake data, instead of invoke really AJAX call"
+            android:title="Use fake data"
+            />
+        <EditTextPreference
+            android:key="@string/key_consumer_key"
+            android:summary="ie: ZP5QQBoMzS4OLvo7maaaaaaaa"
+            android:title="Consumer Key"
+            />
+        <EditTextPreference
+            android:key="@string/key_consumer_secret"
+            android:summary="ie: 7NIByTSNrVJ6z1lEdoGO7YEd8JXD8FuaaoDiXYqQaaaaaaaaaa"
+            android:title="Consumer Secret"
+            />
+        <EditTextPreference
+            android:key="@string/key_access_token"
+            android:summary="ie: 8829527-axCfIFrDzwtTAoCBWwUPVjGkLDZ62N6oaaaaaaaaaa"
+            android:title="Access Token"
+            />
+        <EditTextPreference
+            android:key="@string/key_access_secret"
+            android:summary="ie: jpabtQtWYF8Mu9t6qI05D0jHENHhtvHZ6vBaaaaaaaaaa"
+            android:title="Access Secret"
+            />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Control">
+        <Preference
+            android:key="@string/key_clear"
+            android:title="Clear save share-prefrences"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>
